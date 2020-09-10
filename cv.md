@@ -1,8 +1,8 @@
-# Pavel Ptashynski
+# Pavel Ptashynski (Junior Frontend Developer)
 
 ## Contacts: 
 * *+123456789*
-* *+123456789*
+* *+345575756*
 
 ## Skills:
 * *HTML*
